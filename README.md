@@ -27,12 +27,16 @@ This project filters and qualifies leads using predefined criteria, including ke
 
 - You can replace or extend the default `keywords.json` and `icp_config.json` to customize the filtering criteria.
 
-5. **Run the Script**
+## 5. **Run the Script**
 
-- Run the main Python script to start processing the leads:
+To process the leads, run either of the main Python scripts depending on the type of results you want:
 
-  ```bash
-  python lead_qualification.py
+- `keyword_tracker1.py` – generates `all_matched_results.csv` (leads that match any keyword, regardless of ICP)
+- `keyword_tracker2.py` – generates `filtered_results.csv` (leads that match both keyword and ICP criteria)
+
+```bash
+python keyword_tracker1.py
+python keyword_tracker2.py
 
 ---
 
