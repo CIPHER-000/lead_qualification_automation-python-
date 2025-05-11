@@ -49,19 +49,36 @@ To process the leads, run either of the main Python scripts depending on the typ
 
 ## 📌 Assumptions and Limitations
 
-- **Keyword logic** supports both `AND` and `OR` conditions as defined in a JSON configuration file (`keywords.json`).
-- **ICP matching** is based on configurable role keywords (e.g., "Head of Growth", "Marketing", etc.) and can be modified in the `icp_config.json`.
-- Leads must match **at least one keyword AND one ICP role** to be considered valid for scoring and filtering.
-- **Confidence scoring** is computed using the following logic:
-  - +0.2 for keyword match
-  - +0.3 for ICP match
-  - +0.1 for lead engagement (e.g., likes, comments)
-  - Capped at 1.0
-- **Deduplication** is done via the `lead_url` field to ensure unique entries in the final outputs.
-- **Date of extraction** is appended to each result for tracking and auditing purposes.
-- **Engagement data** (e.g., likes, comments) is optional but improves the accuracy of scoring.
-- Dummy data is used for testing, but the system is designed to work with real-time sources (e.g., web scraping or API integration).
-- **JSON** is used for input and output.
+### ✅ Feature Summary
+
+- **Keyword Matching Logic**  
+  Keywords are defined in `keywords/keywords.json` and support both `AND` and `OR` logic per rule. Posts must match at least one keyword from any rule to be considered.
+
+- **ICP Role Filtering (Only in `keyword_tracker2.py`)**  
+  ICP role terms are loaded from `keywords/icp_config.json`. A lead must match at least one ICP keyword in the username or bio to be included in the filtered results.
+
+- **Scoring Mechanism (Only in `keyword_tracker2.py`)**  
+  A confidence score (capped at 1.0) is computed as follows:
+  - `+0.2` per unique matched keyword  
+  - `+0.3` if the profile matches ICP roles  
+  - `+0.1` if likes > 10  
+  - `+0.1` if comments > 3  
+
+- **Deduplication**  
+  Both scripts use the post URL (`post_url`) to ensure each result is unique and avoid duplicates in the output.
+
+- **Result Metadata**  
+  Each result includes a `date_extracted` field (UTC format) to support tracking and audits.
+
+- **Post Engagement Info**  
+  Likes and comments are included in the output and optionally influence the confidence score in `keyword_tracker2.py`.
+
+- **Data Source and Format**  
+  - Uses `dummy_posts.json` as input for testing.  
+  - Outputs JSON files:
+    - `all_matched_results.json` (from `keyword_tracker1.py`)  
+    - `filtered_results.json` (from `keyword_tracker2.py`)
+
 
 ---
 
