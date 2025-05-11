@@ -246,9 +246,9 @@
     "num_comments": 5,
     "date_posted": "2025-04-10",
     "matched_keywords": [
-      "crm",
       "pipeline",
-      "apollo"
+      "apollo",
+      "crm"
     ],
     "linkedin_profile_url": "https://www.linkedin.com/in/jamesharper",
     "date_extracted": "2025-05-11"
@@ -262,8 +262,8 @@
     "num_comments": 4,
     "date_posted": "2025-04-14",
     "matched_keywords": [
-      "outreach",
-      "seamless.ai"
+      "seamless.ai",
+      "outreach"
     ],
     "linkedin_profile_url": "https://www.linkedin.com/in/samanthawells",
     "date_extracted": "2025-05-11"
@@ -277,8 +277,8 @@
     "num_comments": 3,
     "date_posted": "2025-04-19",
     "matched_keywords": [
-      "crm",
-      "lusha"
+      "lusha",
+      "crm"
     ],
     "linkedin_profile_url": "https://www.linkedin.com/in/tomford",
     "date_extracted": "2025-05-11"
@@ -306,8 +306,8 @@
     "num_comments": 2,
     "date_posted": "2025-04-26",
     "matched_keywords": [
-      "seamless.ai",
-      "apollo"
+      "apollo",
+      "seamless.ai"
     ],
     "linkedin_profile_url": "https://www.linkedin.com/in/brianlee",
     "date_extracted": "2025-05-11"
@@ -336,9 +336,9 @@
     "num_comments": 5,
     "date_posted": "2025-04-23",
     "matched_keywords": [
-      "outreach",
       "lusha",
-      "sdr tools"
+      "sdr tools",
+      "outreach"
     ],
     "linkedin_profile_url": "https://www.linkedin.com/in/andrewchen",
     "date_extracted": "2025-05-11"
@@ -366,9 +366,9 @@
     "num_comments": 4,
     "date_posted": "2025-04-11",
     "matched_keywords": [
-      "crm",
+      "lusha",
       "apollo",
-      "lusha"
+      "crm"
     ],
     "linkedin_profile_url": "https://www.linkedin.com/in/robertstone",
     "date_extracted": "2025-05-11"

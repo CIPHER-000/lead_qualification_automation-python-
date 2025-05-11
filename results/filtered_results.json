@@ -58,9 +58,9 @@
   {
     "post_url": "https://www.linkedin.com/posts/10025",
     "poster_profile": "https://www.linkedin.com/in/brianlee",
-    "match_keyword": "apollo, seamless.ai",
+    "match_keyword": "seamless.ai, apollo",
     "confidence": 0.8,
-    "reason": "Matched keyword(s): apollo, seamless.ai; Bio matches ICP criteria; Post shows engagement",
+    "reason": "Matched keyword(s): seamless.ai, apollo; Bio matches ICP criteria; Post shows engagement",
     "date_extracted": "2025-05-11"
   },
   {
@@ -74,9 +74,9 @@
   {
     "post_url": "https://www.linkedin.com/posts/10027",
     "poster_profile": "https://www.linkedin.com/in/andrewchen",
-    "match_keyword": "lusha, sdr tools, outreach",
+    "match_keyword": "lusha, outreach, sdr tools",
     "confidence": 1.0,
-    "reason": "Matched keyword(s): lusha, sdr tools, outreach; Bio matches ICP criteria; Post shows engagement",
+    "reason": "Matched keyword(s): lusha, outreach, sdr tools; Bio matches ICP criteria; Post shows engagement",
     "date_extracted": "2025-05-11"
   },
   {

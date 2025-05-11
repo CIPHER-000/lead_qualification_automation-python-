@@ -1,12 +1,21 @@
+import os
 import json
 from datetime import datetime
 
+# Set project root directory (relative to the script's location)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# File paths
+POSTS_FILE = os.path.join(BASE_DIR, "dummy_posts.json")
+KEYWORDS_FILE = os.path.join(BASE_DIR, "keywords", "keywords.json")
+OUTPUT_FILE = os.path.join(BASE_DIR, "results", "all_matched_results.json")
+
 # Load post data
-with open("dummy_posts.json", "r", encoding="utf-8") as f:
+with open(POSTS_FILE, "r", encoding="utf-8") as f:
     posts = json.load(f)
 
 # Load keyword rules
-with open("keywords.json", "r", encoding="utf-8") as f:
+with open(KEYWORDS_FILE, "r", encoding="utf-8") as f:
     keyword_rules = json.load(f)
 
 # Keyword matching logic
@@ -51,7 +60,7 @@ for post in posts:
     })
 
 # Save to file
-with open("all_matched_results.json", "w", encoding="utf-8") as f:
+with open("results/all_matched_results.json", "w", encoding="utf-8") as f:
     json.dump(simple_output, f, indent=2)
 
 print(f"Saved {len(simple_output)} simplified posts to all_matched_results.json")
