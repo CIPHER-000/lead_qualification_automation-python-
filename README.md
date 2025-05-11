@@ -41,7 +41,6 @@ This project filters and qualifies leads using predefined criteria, including ke
 
 - JSON – For input/output data formats
 
-- Flask – For API integration (optional if you want to run as a service)
 ---
 
 ## 📌 Assumptions and Limitations
