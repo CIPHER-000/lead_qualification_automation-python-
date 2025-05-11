@@ -1,0 +1,16 @@
+[
+    { "keywords": ["apollo"], "logic": "OR" },
+    { "keywords": ["outreach"], "logic": "OR" },
+    { "keywords": ["leads"], "logic": "OR" },
+    { "keywords": ["pipeline"], "logic": "OR" },
+    { "keywords": ["crm"], "logic": "OR" },
+    { "keywords": ["sales enablement"], "logic": "OR" },
+    { "keywords": ["sdr tools"], "logic": "OR" },
+    { "keywords": ["prospecting"], "logic": "OR" },
+    { "keywords": ["revenue"], "logic": "OR" },
+    { "keywords": ["sales navigator"], "logic": "OR" },
+    { "keywords": ["seamless.ai"], "logic": "OR" },
+    { "keywords": ["lusha"], "logic": "OR" },
+    { "keywords": ["sales tools"], "logic": "OR" }
+  ]
+  

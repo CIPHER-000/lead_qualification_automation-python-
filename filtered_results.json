@@ -1,0 +1,106 @@
+[
+  {
+    "post_url": "https://www.linkedin.com/posts/10000",
+    "poster_profile": "https://www.linkedin.com/in/alicebrown",
+    "match_keyword": "apollo",
+    "confidence": 0.7,
+    "reason": "Matched keyword(s): apollo; Bio matches ICP criteria; Post shows engagement",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_url": "https://www.linkedin.com/posts/10001",
+    "poster_profile": "https://www.linkedin.com/in/bobsmith",
+    "match_keyword": "lusha",
+    "confidence": 0.6,
+    "reason": "Matched keyword(s): lusha; Bio matches ICP criteria; Post shows engagement",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_url": "https://www.linkedin.com/posts/10005",
+    "poster_profile": "https://www.linkedin.com/in/frankharris",
+    "match_keyword": "seamless.ai",
+    "confidence": 0.6,
+    "reason": "Matched keyword(s): seamless.ai; Bio matches ICP criteria; Post shows engagement",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_url": "https://www.linkedin.com/posts/10021",
+    "poster_profile": "https://www.linkedin.com/in/jamesharper",
+    "match_keyword": "pipeline, apollo, crm",
+    "confidence": 1.0,
+    "reason": "Matched keyword(s): pipeline, apollo, crm; Bio matches ICP criteria; Post shows engagement",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_url": "https://www.linkedin.com/posts/10022",
+    "poster_profile": "https://www.linkedin.com/in/samanthawells",
+    "match_keyword": "seamless.ai, outreach",
+    "confidence": 0.9,
+    "reason": "Matched keyword(s): seamless.ai, outreach; Bio matches ICP criteria; Post shows engagement",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_url": "https://www.linkedin.com/posts/10023",
+    "poster_profile": "https://www.linkedin.com/in/tomford",
+    "match_keyword": "lusha, crm",
+    "confidence": 0.8,
+    "reason": "Matched keyword(s): lusha, crm; Bio matches ICP criteria; Post shows engagement",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_url": "https://www.linkedin.com/posts/10024",
+    "poster_profile": "https://www.linkedin.com/in/jennyxu",
+    "match_keyword": "leads",
+    "confidence": 0.7,
+    "reason": "Matched keyword(s): leads; Bio matches ICP criteria; Post shows engagement",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_url": "https://www.linkedin.com/posts/10025",
+    "poster_profile": "https://www.linkedin.com/in/brianlee",
+    "match_keyword": "apollo, seamless.ai",
+    "confidence": 0.8,
+    "reason": "Matched keyword(s): apollo, seamless.ai; Bio matches ICP criteria; Post shows engagement",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_url": "https://www.linkedin.com/posts/10026",
+    "poster_profile": "https://www.linkedin.com/in/stephanierogers",
+    "match_keyword": "prospecting, sales navigator",
+    "confidence": 0.8,
+    "reason": "Matched keyword(s): prospecting, sales navigator; Bio matches ICP criteria; Post shows engagement",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_url": "https://www.linkedin.com/posts/10027",
+    "poster_profile": "https://www.linkedin.com/in/andrewchen",
+    "match_keyword": "lusha, sdr tools, outreach",
+    "confidence": 1.0,
+    "reason": "Matched keyword(s): lusha, sdr tools, outreach; Bio matches ICP criteria; Post shows engagement",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_url": "https://www.linkedin.com/posts/10028",
+    "poster_profile": "https://www.linkedin.com/in/lisagrant",
+    "match_keyword": "crm",
+    "confidence": 0.7,
+    "reason": "Matched keyword(s): crm; Bio matches ICP criteria; Post shows engagement",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_url": "https://www.linkedin.com/posts/10029",
+    "poster_profile": "https://www.linkedin.com/in/robertstone",
+    "match_keyword": "lusha, apollo, crm",
+    "confidence": 1.0,
+    "reason": "Matched keyword(s): lusha, apollo, crm; Bio matches ICP criteria; Post shows engagement",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_url": "https://www.linkedin.com/posts/10030",
+    "poster_profile": "https://www.linkedin.com/in/meganholt",
+    "match_keyword": "seamless.ai",
+    "confidence": 0.7,
+    "reason": "Matched keyword(s): seamless.ai; Bio matches ICP criteria; Post shows engagement",
+    "date_extracted": "2025-05-11"
+  }
+]

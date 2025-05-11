@@ -1,0 +1,390 @@
+[
+  {
+    "post_link": "https://www.linkedin.com/posts/10000",
+    "user_profile_link": "https://www.linkedin.com/in/alicebrown",
+    "username": "Alice Brown",
+    "raw_post_content": "We've been using Apollo, but not satisfied with it lately. Thinking about a change.",
+    "num_likes": 25,
+    "num_comments": 6,
+    "date_posted": "2025-04-09",
+    "matched_keywords": [
+      "apollo"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/alicebrown",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10001",
+    "user_profile_link": "https://www.linkedin.com/in/bobsmith",
+    "username": "Bob Smith",
+    "raw_post_content": "We've been using Lusha, but not satisfied with it lately. Thinking about a change.",
+    "num_likes": 8,
+    "num_comments": 4,
+    "date_posted": "2025-04-25",
+    "matched_keywords": [
+      "lusha"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/bobsmith",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10002",
+    "user_profile_link": "https://www.linkedin.com/in/clarajohnson",
+    "username": "Clara Johnson",
+    "raw_post_content": "We're currently using LinkedIn Sales Navigator. So far, no complaints so far!",
+    "num_likes": 8,
+    "num_comments": 10,
+    "date_posted": "2025-05-03",
+    "matched_keywords": [
+      "sales navigator"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/clarajohnson",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10003",
+    "user_profile_link": "https://www.linkedin.com/in/danielwu",
+    "username": "Daniel Wu",
+    "raw_post_content": "We're currently using Seamless.ai. So far, satisfied with ZoomInfo!",
+    "num_likes": 14,
+    "num_comments": 2,
+    "date_posted": "2025-04-24",
+    "matched_keywords": [
+      "seamless.ai"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/danielwu",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10005",
+    "user_profile_link": "https://www.linkedin.com/in/frankharris",
+    "username": "Frank Harris",
+    "raw_post_content": "We've been using Seamless.ai, but exploring new tools it lately. Thinking about a change.",
+    "num_likes": 0,
+    "num_comments": 4,
+    "date_posted": "2025-04-12",
+    "matched_keywords": [
+      "seamless.ai"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/frankharris",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10006",
+    "user_profile_link": "https://www.linkedin.com/in/gracekim",
+    "username": "Grace Kim",
+    "raw_post_content": "We've been using LinkedIn Sales Navigator, but looking for a better solution than it lately. Thinking about a change.",
+    "num_likes": 43,
+    "num_comments": 5,
+    "date_posted": "2025-04-17",
+    "matched_keywords": [
+      "sales navigator"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/gracekim",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10007",
+    "user_profile_link": "https://www.linkedin.com/in/henryzhang",
+    "username": "Henry Zhang",
+    "raw_post_content": "We've been using LinkedIn Sales Navigator, but looking for a better solution than it lately. Thinking about a change.",
+    "num_likes": 14,
+    "num_comments": 2,
+    "date_posted": "2025-05-04",
+    "matched_keywords": [
+      "sales navigator"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/henryzhang",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10008",
+    "user_profile_link": "https://www.linkedin.com/in/islathompson",
+    "username": "Isla Thompson",
+    "raw_post_content": "We've been using LinkedIn Sales Navigator, but frustrated with it lately. Thinking about a change.",
+    "num_likes": 17,
+    "num_comments": 5,
+    "date_posted": "2025-04-20",
+    "matched_keywords": [
+      "sales navigator"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/islathompson",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10009",
+    "user_profile_link": "https://www.linkedin.com/in/jacklee",
+    "username": "Jack Lee",
+    "raw_post_content": "We've been using Apollo, but open to alternatives it lately. Thinking about a change.",
+    "num_likes": 29,
+    "num_comments": 0,
+    "date_posted": "2025-04-20",
+    "matched_keywords": [
+      "apollo"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/jacklee",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10010",
+    "user_profile_link": "https://www.linkedin.com/in/karenwhite",
+    "username": "Karen White",
+    "raw_post_content": "We've been using LinkedIn Sales Navigator, but ditching it lately. Thinking about a change.",
+    "num_likes": 11,
+    "num_comments": 4,
+    "date_posted": "2025-04-22",
+    "matched_keywords": [
+      "sales navigator"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/karenwhite",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10011",
+    "user_profile_link": "https://www.linkedin.com/in/leomartin",
+    "username": "Leo Martin",
+    "raw_post_content": "We've been using LinkedIn Sales Navigator, but cold email isn't working it lately. Thinking about a change.",
+    "num_likes": 23,
+    "num_comments": 4,
+    "date_posted": "2025-04-15",
+    "matched_keywords": [
+      "sales navigator"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/leomartin",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10012",
+    "user_profile_link": "https://www.linkedin.com/in/monicadavis",
+    "username": "Monica Davis",
+    "raw_post_content": "We're currently using Apollo. So far, happy with our tools!",
+    "num_likes": 5,
+    "num_comments": 1,
+    "date_posted": "2025-04-27",
+    "matched_keywords": [
+      "apollo"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/monicadavis",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10013",
+    "user_profile_link": "https://www.linkedin.com/in/nathanscott",
+    "username": "Nathan Scott",
+    "raw_post_content": "We're currently using Lusha. So far, loving the experience!",
+    "num_likes": 18,
+    "num_comments": 2,
+    "date_posted": "2025-04-28",
+    "matched_keywords": [
+      "lusha"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/nathanscott",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10014",
+    "user_profile_link": "https://www.linkedin.com/in/oliviagreen",
+    "username": "Olivia Green",
+    "raw_post_content": "We've been using Apollo, but exploring new tools it lately. Thinking about a change.",
+    "num_likes": 43,
+    "num_comments": 7,
+    "date_posted": "2025-05-02",
+    "matched_keywords": [
+      "apollo"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/oliviagreen",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10015",
+    "user_profile_link": "https://www.linkedin.com/in/peteryoung",
+    "username": "Peter Young",
+    "raw_post_content": "We're currently using Seamless.ai. So far, happy with our tools!",
+    "num_likes": 29,
+    "num_comments": 5,
+    "date_posted": "2025-05-03",
+    "matched_keywords": [
+      "seamless.ai"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/peteryoung",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10016",
+    "user_profile_link": "https://www.linkedin.com/in/quincybrooks",
+    "username": "Quincy Brooks",
+    "raw_post_content": "We've been using Lusha, but open to alternatives it lately. Thinking about a change.",
+    "num_likes": 4,
+    "num_comments": 10,
+    "date_posted": "2025-04-13",
+    "matched_keywords": [
+      "lusha"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/quincybrooks",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10018",
+    "user_profile_link": "https://www.linkedin.com/in/steveclark",
+    "username": "Steve Clark",
+    "raw_post_content": "We've been using Apollo, but had issues with it lately. Thinking about a change.",
+    "num_likes": 1,
+    "num_comments": 3,
+    "date_posted": "2025-04-12",
+    "matched_keywords": [
+      "apollo"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/steveclark",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10021",
+    "user_profile_link": "https://www.linkedin.com/in/jamesharper",
+    "username": "James Harper",
+    "raw_post_content": "Looking for CRM alternatives to streamline our pipeline. Apollo's not cutting it anymore.",
+    "num_likes": 18,
+    "num_comments": 5,
+    "date_posted": "2025-04-10",
+    "matched_keywords": [
+      "crm",
+      "pipeline",
+      "apollo"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/jamesharper",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10022",
+    "user_profile_link": "https://www.linkedin.com/in/samanthawells",
+    "username": "Samantha Wells",
+    "raw_post_content": "Our outreach volume dropped recently\u2014thinking of switching from Seamless.ai to something more reliable.",
+    "num_likes": 14,
+    "num_comments": 4,
+    "date_posted": "2025-04-14",
+    "matched_keywords": [
+      "outreach",
+      "seamless.ai"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/samanthawells",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10023",
+    "user_profile_link": "https://www.linkedin.com/in/tomford",
+    "username": "Tom Ford",
+    "raw_post_content": "Frustrated with our current CRM setup. Anyone used Lusha and liked it?",
+    "num_likes": 11,
+    "num_comments": 3,
+    "date_posted": "2025-04-19",
+    "matched_keywords": [
+      "crm",
+      "lusha"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/tomford",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10024",
+    "user_profile_link": "https://www.linkedin.com/in/jennyxu",
+    "username": "Jenny Xu",
+    "raw_post_content": "Looking to replace ZoomInfo. Sales team says it's not surfacing quality leads anymore.",
+    "num_likes": 22,
+    "num_comments": 6,
+    "date_posted": "2025-04-21",
+    "matched_keywords": [
+      "leads"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/jennyxu",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10025",
+    "user_profile_link": "https://www.linkedin.com/in/brianlee",
+    "username": "Brian Lee",
+    "raw_post_content": "Anyone comparing Apollo vs Seamless.ai for outbound lead gen?",
+    "num_likes": 19,
+    "num_comments": 2,
+    "date_posted": "2025-04-26",
+    "matched_keywords": [
+      "seamless.ai",
+      "apollo"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/brianlee",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10026",
+    "user_profile_link": "https://www.linkedin.com/in/stephanierogers",
+    "username": "Stephanie Rogers",
+    "raw_post_content": "Considering a switch from Sales Navigator. Curious what others are using for B2B prospecting.",
+    "num_likes": 15,
+    "num_comments": 3,
+    "date_posted": "2025-04-28",
+    "matched_keywords": [
+      "sales navigator",
+      "prospecting"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/stephanierogers",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10027",
+    "user_profile_link": "https://www.linkedin.com/in/andrewchen",
+    "username": "Andrew Chen",
+    "raw_post_content": "Evaluating SDR tools\u2014Lusha feels limited for multichannel outreach.",
+    "num_likes": 9,
+    "num_comments": 5,
+    "date_posted": "2025-04-23",
+    "matched_keywords": [
+      "outreach",
+      "lusha",
+      "sdr tools"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/andrewchen",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10028",
+    "user_profile_link": "https://www.linkedin.com/in/lisagrant",
+    "username": "Lisa Grant",
+    "raw_post_content": "Is anyone using CRM enrichment tools besides ZoomInfo? Open to alternatives.",
+    "num_likes": 13,
+    "num_comments": 6,
+    "date_posted": "2025-05-01",
+    "matched_keywords": [
+      "crm"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/lisagrant",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10029",
+    "user_profile_link": "https://www.linkedin.com/in/robertstone",
+    "username": "Robert Stone",
+    "raw_post_content": "Our team has outgrown our current CRM. Looking into Apollo and Lusha. Thoughts?",
+    "num_likes": 20,
+    "num_comments": 4,
+    "date_posted": "2025-04-11",
+    "matched_keywords": [
+      "crm",
+      "apollo",
+      "lusha"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/robertstone",
+    "date_extracted": "2025-05-11"
+  },
+  {
+    "post_link": "https://www.linkedin.com/posts/10030",
+    "user_profile_link": "https://www.linkedin.com/in/meganholt",
+    "username": "Megan Holt",
+    "raw_post_content": "Seamless.ai has been flaky lately\u2014looking at switching to a better SDR tool.",
+    "num_likes": 12,
+    "num_comments": 7,
+    "date_posted": "2025-05-05",
+    "matched_keywords": [
+      "seamless.ai"
+    ],
+    "linkedin_profile_url": "https://www.linkedin.com/in/meganholt",
+    "date_extracted": "2025-05-11"
+  }
+]
