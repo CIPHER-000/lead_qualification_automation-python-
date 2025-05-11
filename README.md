@@ -34,9 +34,9 @@ To process the leads, run either of the main Python scripts depending on the typ
 - `keyword_tracker1.py` – generates `all_matched_results.csv` (leads that match any keyword, regardless of ICP)
 - `keyword_tracker2.py` – generates `filtered_results.csv` (leads that match both keyword and ICP criteria)
 
-```bash
-python keyword_tracker1.py
-python keyword_tracker2.py
+   ```bash
+   python keyword_tracker1.py
+   python keyword_tracker2.py
 
 ---
 
