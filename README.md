@@ -16,18 +16,14 @@ This project filters and qualifies leads using predefined criteria, including ke
    ```bash
    git clone https://github.com/CIPHER-000/lead_qualification_automation-python-.git
    cd lead_qualification_automation-python-
-3. **Install Dependencies**
-   Install required Python packages with pip:
-    ```bash
-       pip install -r requirements.txt
 
-4. **Configure Data Files**
+3. **Configure Data Files**
 
 - The project includes dummy lead data for testing purposes.
 
 - You can replace or extend the default `keywords.json` and `icp_config.json` to customize the filtering criteria.
 
-## 5. **Run the Script**
+4. **Run the Script**
 
 To process the leads, run either of the main Python scripts depending on the type of results you want:
 
